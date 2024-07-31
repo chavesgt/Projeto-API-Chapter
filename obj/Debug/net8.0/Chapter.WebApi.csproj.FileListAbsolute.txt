@@ -271,3 +271,4 @@ C:\Users\Gabriel\Desktop\PROJETO-API-Chapter\Chapter.WebApi\obj\Debug\net8.0\ref
 C:\Users\Gabriel\Desktop\PROJETO-API-Chapter\Chapter.WebApi\obj\Debug\net8.0\Chapter.WebApi.pdb
 C:\Users\Gabriel\Desktop\PROJETO-API-Chapter\Chapter.WebApi\obj\Debug\net8.0\Chapter.WebApi.genruntimeconfig.cache
 C:\Users\Gabriel\Desktop\PROJETO-API-Chapter\Chapter.WebApi\obj\Debug\net8.0\ref\Chapter.WebApi.dll
+C:\Users\Gabriel\Desktop\PROJETO-API-Chapter\Chapter.WebApi\obj\Debug\net8.0\Chapter.WebApi.sourcelink.json
